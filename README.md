@@ -33,7 +33,7 @@ El usuario puede ingresar un valor en un input, seleccionar la unidad de origen 
 1. Clonar el repositorio:
 ```bash
    git clone https://github.com/JAHN77/Rubrica_API_conversiones.git
-   cd api_conversiones
+   cd Rubrica_API_conversiones
 ```
 2. Instalar dependencias:
 ``` bash

@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    background-color: rgb(116, 116, 116);
+    text-align: center;
+}
+
+#header h1{
+    padding: 20px;
+}
+
+.container-content{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.container-filter{
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.container-filter #units{
+    padding: 5px;
+    width: 90%;
+    border-radius: 5px;
+    height: 35px;
+}
+
+
+.container-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0 10px 0;
+    padding: 20px;
+}
+
+.container-blocks{
+    display: block;
+    margin: auto;
+}
+
+.container-blocks section{
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.container-blocks section input {
+    padding: 5px;
+    width: 90%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid ;
+    font-size: 14px;
+}
+
+.cont-button-convert{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 5px 0px 10px 0px;
+}
+.cont-button-convert select{
+    padding: 5px;
+    width: 80%;
+    cursor: pointer;
+    border-radius: 5px;   
+}
+
+
+
+
